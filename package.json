@@ -1,0 +1,23 @@
+{
+  "name": "starwarsapi",
+  "version": "1.0.0",
+  "description": "A starwars api consumable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pythonvista/starwarsapi.git"
+  },
+  "keywords": [
+    "starwars",
+    "api"
+  ],
+  "author": "Emeter Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pythonvista/starwarsapi/issues"
+  },
+  "homepage": "https://github.com/pythonvista/starwarsapi#readme"
+}
